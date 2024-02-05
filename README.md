@@ -3,10 +3,10 @@
 
 ## AirBnB clone
 The project entails an implementation of a replica of an AirBnB website. When this project is finished, it will have:
--A command interpreter, similar to a shell, that can manipulate data without a graphical user interface (for development and debugging)
--A front-end website with both dynamic and static features
--An extensive database for controlling the backend features
--An API that offers a channel of communication between the system's front and back ends.
+- A command interpreter, similar to a shell, that can manipulate data without a graphical user interface (for development and debugging)
+- A front-end website with both dynamic and static features
+- An extensive database for controlling the backend features
+- An API that offers a channel of communication between the system's front and back ends.
 
 ## Concept Review
 It is helpful to keep in mind the following ideas as you work through this code base to finish this project.
