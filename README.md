@@ -1,4 +1,5 @@
 # 0x00. AirBnB clone - The console
+![hbnb](https://github.com/MuSnr/AirBnB_clone/assets/108272722/ec78ff0d-60b4-4b3f-ad7a-0ff76110939d)
 
 ## AirBnB clone
 The project entails an implementation of a replica of an AirBnB website. When this project is finished, it will have:
