@@ -3,7 +3,7 @@
 from models.base_model import BaseModel
 
 
-class CustomReview(BaseModel):
+class Review(BaseModel):
     """Represents a review.
 
     Attributes:
