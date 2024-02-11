@@ -20,15 +20,15 @@ class Place(BaseModel):
         place_amenity_ids (list): A list of Amenity ids.
     """
 
-    place_city_id = ""
-    place_user_id = ""
-    place_name = ""
-    place_description = ""
-    place_number_rooms = 0
-    place_number_bathrooms = 0
-    place_max_guest = 0
-    place_price_by_night = 0
-    place_latitude = 0.0
-    place_longitude = 0.0
-    place_amenity_ids = []
+    city_id = ""
+    user_id = ""
+    name = ""
+    description = ""
+    number_rooms = 0
+    number_bathrooms = 0
+    max_guest = 0
+    price_by_night = 0
+    latitude = 0.0
+    longitude = 0.0
+    amenity_ids = []
 
