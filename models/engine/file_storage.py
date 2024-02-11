@@ -49,8 +49,8 @@ class FileStorage:
                     class_name = value['__class__']
                     del value['__class__']
                     module = __import__(
-                            'models.' + class_name.lower(), fromlist=[class_name])
-                    cls = getattr(module, class_name)
-                    self.new(class(**value))
+                            'models.' + cls_name.lower(), fromlist=[cls_name])
+                    cls = getattr(module, cls_name)
+                    self.new(cls(**value))
         except FileNotFoundError:
             pass
