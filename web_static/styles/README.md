@@ -1,4 +1,5 @@
 # 0x01. AirBnB clone - Web static
+![AirBnB Web](https://github.com/MuSnr/AirBnB_clone/assets/108272722/9b5a05e3-e99d-4ce1-a67c-e6b7eac7d2a3)
 
 ## Learning Objectives:bulb:
 What you should learn from this project:
